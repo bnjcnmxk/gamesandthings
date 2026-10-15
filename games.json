@@ -65,7 +65,7 @@
         "category": "browser",
         "tags": ["Zombies", "FPS", "Action", "Co-op", "Survival"],
         "players": "single-player",
-        "price": 9.99,
+        "price": 0,
         "offer": false,
         "recommended": false,
         "tag": "Web",
