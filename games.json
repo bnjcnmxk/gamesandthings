@@ -28,5 +28,20 @@
         "url": "steam://rungameid/377160",
         "webUrl": "https://store.steampowered.com/app/377160/Fallout_4/",
         "trailer": "https://www.youtube.com/watch?v=X5aJfebzkrM"
+    },
+    {
+        "name": "Fallout New Vegas",
+        "appId": "22380",
+        "category": "tier-2",
+        "tags": ["Open World", "Post-apocalyptic", "Exploration", "Atmospheric"],
+        "players": "single-player",
+        "price": 9.99,
+        "offer": true,
+        "recommended": false,
+        "tag": "Tier II",
+        "desc": "n open-world action role-playing game where you play as a post-apocalyptic delivery person seeking revenge and deciding the political fate of a war-torn, nuclear-devastated Nevada. ",
+        "url": "steam://rungameid/22380",
+        "webUrl": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/",
+        "trailer": "https://www.imdb.com/video/embed/vi3678649625/"
    }
 ]
