@@ -58,5 +58,19 @@
         "url": "steam://rungameid/400",
         "webUrl": "https://store.steampowered.com/app/400/Portal/",
         "trailer": "https://www.imdb.com/video/embed/vi706592281/"
+   },
+   {
+        "name": "Black Ops 1 Zombies",
+        "appId": "0",
+        "category": "browser",
+        "tags": ["Zombies", "FPS", "Action", "Co-op", "Survival"],
+        "players": "single-player",
+        "price": 9.99,
+        "offer": false,
+        "recommended": false,
+        "tag": "Web",
+        "desc": "Survive endless waves of the undead solo or cooperatively in iconic maps like Kino der Toten and Five, featuring retro-futuristic weapons and a deep lore narrative built directly into Call of Duty: Black Ops.",
+        "url": "https://vel.gg/bo1z",
+        "webUrl": "https://vel.gg/bo1z"
    }
 ]
