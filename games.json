@@ -271,7 +271,7 @@
         "tags": ["Horror", "Survival Horror", "Sci-Fi", "Third Person", "Atmospheric"],
         "players": "single-player",
         "price": 59.99,
-        "offer": true,
+        "offer": false,
         "recommended": false,
         "tag": "Tier 0",
         "desc": "In this narrative-driven, third-person survival horror game set 300 years in the future, play as Jacob Lee—a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto.",
