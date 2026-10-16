@@ -203,5 +203,50 @@
         "url": "steam://rungameid/1144200",
         "webUrl": "https://store.steampowered.com/app/1144200/Ready_or_Not/",
         "trailer": "https://files.catbox.moe/18wjyn.mp4"
+    },  
+    {
+        "name": "Dead Space",
+        "appId": "17470",
+        "category": "tier-3",
+        "tags": ["Horror", "Sci-Fi", "Action", "Atmospheric", "Third Person"],
+        "players": "single-player",
+        "price": 19.99,
+        "offer": true,
+        "recommended": true,
+        "tag": "Tier III",
+        "desc": "Only the Dead Survive. A massive mining ship, the USG Ishimura, goes silent after digging up a mysterious alien artifact in a distant star system. Engineer Isaac Clarke is sent to repair the ship's communications, only to discover a living nightmare as the crew has been slaughtered and infected.",
+        "url": "steam://rungameid/17470",
+        "webUrl": "https://store.steampowered.com/app/17470/Dead_Space/",
+        "trailer": "https://www.imdb.com/video/embed/vi2024652569/"
+    },
+    {
+        "name": "Dead Space 2",
+        "appId": "47780",
+        "category": "tier-3",
+        "tags": ["Horror", "Action", "Sci-Fi", "Third Person", "Atmospheric"],
+        "players": "single-player",
+        "price": 19.99,
+        "offer": false,
+        "recommended": false,
+        "tag": "Tier III",
+        "desc": "In Dead Space 2, you join Isaac Clarke, the Systems Engineer from Dead Space, as he awakens three years after the horrific events on the USG Ishimura. The Sprawl, a massive space station, is overrun by Necromorphs as Isaac fights through dementia and his own haunted past.",
+        "url": "steam://rungameid/47780",
+        "webUrl": "https://store.steampowered.com/app/47780/Dead_Space_2/",
+        "trailer": "https://www.imdb.com/video/embed/vi526105881/"
+    },
+    {
+        "name": "Dead Space 3",
+        "appId": "1238060",
+        "category": "tier-0",
+        "tags": ["Action", "Horror", "Sci-Fi", "Co-op", "Third Person"],
+        "players": "single-player / multi-player",
+        "price": 19.99,
+        "offer": false,
+        "recommended": false,
+        "tag": "Tier 0",
+        "desc": "Dead Space 3 brings Isaac Clarke and stern soldier John Carver together to travel across space to find the source of the Necromorph outbreak. Crash-landed on the frozen planet of Tau Volantis, Isaac must comb the harsh environment for raw materials and scavenged parts.",
+        "url": "steam://rungameid/1238060",
+        "webUrl": "https://store.steampowered.com/app/1238060/Dead_Space_3/",
+        "trailer": "https://www.youtube.com/embed/vi542883097"
     }
 ]
