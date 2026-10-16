@@ -173,5 +173,20 @@
         "url": "steam://rungameid/391220",
         "webUrl": "https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/",
         "trailer": "https://www.imdb.com/video/embed/vi379304985/"
-   }
+   },
+   {
+        "name": "The Last of Us: Part I",
+        "appId": "1888930",
+        "category": "tier-3",
+        "tags": ["Zombies", "Story Rich", "Horror", "Post-apocalyptic", "Action-Adventure"],
+        "players": "single-player",
+        "price": 59.99,
+        "offer": true,
+        "recommended": true,
+        "tag": "Tier III",
+        "desc": "In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey.",
+        "url": "steam://rungameid/1888930",
+        "webUrl": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/",
+        "trailer": "https://www.imdb.com/video/embed/vi3379215641/"
+    }
 ]
