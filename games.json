@@ -267,7 +267,7 @@
     {
         "name": "The Callisto Protocol™",
         "appId": "1544020",
-        "category": "tier--",
+        "category": "tier-0",
         "tags": ["Horror", "Survival Horror", "Sci-Fi", "Third Person", "Atmospheric"],
         "players": "single-player",
         "price": 59.99,
