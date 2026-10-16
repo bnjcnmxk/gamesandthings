@@ -61,7 +61,7 @@
    },
    {
         "name": "Black Ops 1 Zombies",
-        "appId": "0.00",
+        "appId": "0",
         "category": "browser",
         "tags": ["Zombies", "FPS", "Action", "Co-op", "Survival"],
         "players": "single-player",
@@ -75,7 +75,7 @@
    },
    {
         "name": "Counter Strike 1.6",
-        "appId": "0",
+        "appId": "10",
         "category": "browser",
         "tags": ["FPS", "Tactical", "Multiplayer", "Competitive", "Shooter"],
         "players": "multi-player",
