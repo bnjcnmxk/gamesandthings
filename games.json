@@ -12,7 +12,8 @@
         "desc": "an over-the-top, open-world action game where you rebuild the 3rd Street Saints gang to take back the city of Stilwater.",
         "url": "steam://rungameid/9480",
         "webUrl": "https://store.steampowered.com/app/9480/Saints_Row_2/",
-        "trailer": "https://www.imdb.com/video/embed/vi4064853273/"
+        "trailer": "https://www.imdb.com/video/embed/vi4064853273/",
+        "linux": "true"
     },
     {
         "name": "Fallout 4",
@@ -27,7 +28,8 @@
         "desc": "You are the sole survivor of Vault 111, emerging into a world reduced to ash by nuclear war. Every moment is a battle for survival, every decision shapes the future. Rebuild, reshape, and reclaim the Wasteland—your way. ",
         "url": "steam://rungameid/377160",
         "webUrl": "https://store.steampowered.com/app/377160/Fallout_4/",
-        "trailer": "https://www.imdb.com/video/embed/vi10138137/"
+        "trailer": "https://www.imdb.com/video/embed/vi10138137/",
+         "linux": "true"
     },
     {
         "name": "Fallout New Vegas",
@@ -42,7 +44,8 @@
         "desc": "an open-world action role-playing game where you play as a post-apocalyptic delivery person seeking revenge and deciding the political fate of a war-torn, nuclear-devastated Nevada. ",
         "url": "steam://rungameid/22380",
         "webUrl": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/",
-        "trailer": "https://www.imdb.com/video/embed/vi3678649625/"
+        "trailer": "https://www.imdb.com/video/embed/vi3678649625/",
+         "linux": "true"
    },
    {
         "name": "Portal",
@@ -57,7 +60,8 @@
         "desc": "Set in the mysterious Aperture Science Laboratories, players must solve physical puzzles and challenges by opening portals to maneuver objects, and themselves, through space.",
         "url": "steam://rungameid/400",
         "webUrl": "https://store.steampowered.com/app/400/Portal/",
-        "trailer": "https://www.imdb.com/video/embed/vi706592281/"
+        "trailer": "https://www.imdb.com/video/embed/vi706592281/",
+        "linux": "true"
    },
    {
         "name": "Black Ops 1 Zombies",
@@ -142,7 +146,8 @@
         "desc": "TThe year is 2084. The future has turned out much darker than anyone could imagine. First, there was the Nanophage. A digital plague that killed thousands upon thousands of those who chose to augment their minds and bodies. Then came the War, leaving both the West and the East decimated and shattered. With no one left to seize power, corporations took over and forged their own crooked empires.",
         "url": "steam://rungameid/1386900",
         "webUrl": "https://store.steampowered.com/app/1386900/Observer_System_Redux/",
-        "trailer": "https://www.imdb.com/video/embed/vi1979563545/"
+        "trailer": "https://www.imdb.com/video/embed/vi1979563545/",
+        "linux": "true"
     },
     {
        "name": "Trepang2",
@@ -157,7 +162,8 @@
         "desc": "You play as an escaped soldier, who has no memories of their past life, but is infused with supernatural abilities. Revenge is on your mind, and you’ll stop at nothing to get what you want. Deliver devastating punches, sneak around in the shadows, wield explosive weapons, and give the bad guys a taste of their own medicine.",
         "url": "steam://rungameid/1164940",
         "webUrl": "https://store.steampowered.com/app/1164940/Trepang2",
-        "trailer": "https://www.imdb.com/video/embed/vi4220176153/"
+        "trailer": "https://www.imdb.com/video/embed/vi4220176153/",
+         "linux": "true"
    },
    {
         "name": "Rise of the Tomb Raider",
@@ -172,7 +178,8 @@
         "desc": "Featuring epic, high-octane action moments set in the most beautiful hostile environments on earth, Rise of the Tomb Raider delivers a cinematic survival action adventure where you will join Lara Croft on her first Tomb Raiding expedition as she seeks to discover the secret of immortality.",
         "url": "steam://rungameid/391220",
         "webUrl": "https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/",
-        "trailer": "https://www.imdb.com/video/embed/vi379304985/"
+        "trailer": "https://www.imdb.com/video/embed/vi379304985/",
+        "linux": "true"
    },
    {
         "name": "The Last of Us: Part I",
@@ -187,7 +194,8 @@
         "desc": "In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey.",
         "url": "steam://rungameid/1888930",
         "webUrl": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/",
-        "trailer": "https://www.imdb.com/video/embed/vi3379215641/"
+        "trailer": "https://www.imdb.com/video/embed/vi3379215641/",
+        "linux": "true"
     },
     {
         "name": "Ready or Not",
@@ -202,7 +210,8 @@
         "desc": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
         "url": "steam://rungameid/1144200",
         "webUrl": "https://store.steampowered.com/app/1144200/Ready_or_Not/",
-        "trailer": "https://files.catbox.moe/18wjyn.mp4"
+        "trailer": "https://files.catbox.moe/18wjyn.mp4",
+         "linux": "true"
     },  
     {
         "name": "Dead Space",
@@ -217,7 +226,8 @@
         "desc": "Only the Dead Survive. A massive mining ship, the USG Ishimura, goes silent after digging up a mysterious alien artifact in a distant star system. Engineer Isaac Clarke is sent to repair the ship's communications, only to discover a living nightmare as the crew has been slaughtered and infected.",
         "url": "steam://rungameid/17470",
         "webUrl": "https://store.steampowered.com/app/17470/Dead_Space/",
-        "trailer": "https://www.imdb.com/video/embed/vi2024652569/"
+        "trailer": "https://www.imdb.com/video/embed/vi2024652569/",
+         "linux": "true"
     },
     {
         "name": "Dead Space 2",
@@ -232,7 +242,8 @@
         "desc": "In Dead Space 2, you join Isaac Clarke, the Systems Engineer from Dead Space, as he awakens three years after the horrific events on the USG Ishimura. The Sprawl, a massive space station, is overrun by Necromorphs as Isaac fights through dementia and his own haunted past.",
         "url": "steam://rungameid/47780",
         "webUrl": "https://store.steampowered.com/app/47780/Dead_Space_2/",
-        "trailer": "https://www.imdb.com/video/embed/vi526105881/"
+        "trailer": "https://www.imdb.com/video/embed/vi526105881/",
+         "linux": "true"
     },
     {
         "name": "Dead Space 3",
@@ -247,7 +258,8 @@
         "desc": "Dead Space 3 brings Isaac Clarke and stern soldier John Carver together to travel across space to find the source of the Necromorph outbreak. Crash-landed on the frozen planet of Tau Volantis, Isaac must comb the harsh environment for raw materials and scavenged parts.",
         "url": "steam://rungameid/1238060",
         "webUrl": "https://store.steampowered.com/app/1238060/Dead_Space_3/",
-        "trailer": "https://www.youtube.com/embed/vi542883097"
+        "trailer": "https://www.youtube.com/embed/vi542883097",
+         "linux": "true"
     },
     {
         "name": "Cronos: The New Dawn",
@@ -262,7 +274,8 @@
         "desc": "A brutal third-person survival horror where you fight for the future by salvaging the past. Set in a world where Eastern European brutalism meets retro-futurist technology, manipulate temporal anomalies and extract souls to uncover the origins of the apocalypse.",
         "url": "steam://rungameid/2101960",
         "webUrl": "https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/",
-        "trailer": "https://www.youtube.com/embed/5D_1YpC9v2Q"
+        "trailer": "https://www.youtube.com/embed/5D_1YpC9v2Q",
+         "linux": "true"
     },
     {
         "name": "The Callisto Protocol™",
@@ -277,6 +290,7 @@
         "desc": "In this narrative-driven, third-person survival horror game set 300 years in the future, play as Jacob Lee—a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto.",
         "url": "steam://rungameid/1544020",
         "webUrl": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/",
-        "trailer": "https://www.youtube.com/embed/ME2-ICl3Z80"
+        "trailer": "https://www.youtube.com/embed/ME2-ICl3Z80",
+         "linux": "true"
     }
 ]
