@@ -86,5 +86,19 @@
         "desc": "The original tactical team-based masterpiece that revolutionized the competitive FPS landscape. Pit counter-terrorist units against terrorist factions across legendary maps like Dust II, Inferno, and Assault.",
         "url": "steam://rungameid/10",
         "webUrl": "https://csjs.live/"
+    },
+   {
+        "name": "Half-Life",
+        "appId": "70",
+        "category": "browser",
+        "tags": ["FPS", "Classic", "Sci-fi", "Singleplayer", "Story Rich"],
+        "players": "single-player / multiplayer",
+        "price": 0,
+        "offer": false,
+        "recommended": false,
+        "tag": "Web",
+        "desc": "Play as theoretical physicist Gordon Freeman at the Black Mesa Research Facility. When an experiment goes horribly wrong, a catastrophic resonance cascade tears open a dimensional rift, forcing you to fight through alien invaders and a military cleanup crew to survive.",
+        "url": "steam://rungameid/70",
+        "webUrl": "https://pixelsuft.github.io/hl/"
    }
 ]
