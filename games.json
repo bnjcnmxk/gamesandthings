@@ -248,5 +248,35 @@
         "url": "steam://rungameid/1238060",
         "webUrl": "https://store.steampowered.com/app/1238060/Dead_Space_3/",
         "trailer": "https://www.youtube.com/embed/vi542883097"
+    },
+    {
+        "name": "Cronos: The New Dawn",
+        "appId": "2101960",
+        "category": "tier-0",
+        "tags": ["Survival Horror", "Sci-Fi", "Third Person", "Atmospheric", "Action"],
+        "players": "single-player",
+        "price": 59.99,
+        "offer": true,
+        "recommended": false,
+        "tag": "Tier 0",
+        "desc": "A brutal third-person survival horror where you fight for the future by salvaging the past. Set in a world where Eastern European brutalism meets retro-futurist technology, manipulate temporal anomalies and extract souls to uncover the origins of the apocalypse.",
+        "url": "steam://rungameid/2101960",
+        "webUrl": "https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/",
+        "trailer": "https://www.youtube.com/embed/5D_1YpC9v2Q"
+    },
+    {
+        "name": "The Callisto Protocol™",
+        "appId": "1544020",
+        "category": "tier--",
+        "tags": ["Horror", "Survival Horror", "Sci-Fi", "Third Person", "Atmospheric"],
+        "players": "single-player",
+        "price": 59.99,
+        "offer": true,
+        "recommended": false,
+        "tag": "Tier 0",
+        "desc": "In this narrative-driven, third-person survival horror game set 300 years in the future, play as Jacob Lee—a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto.",
+        "url": "steam://rungameid/1544020",
+        "webUrl": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/",
+        "trailer": "https://www.youtube.com/embed/ME2-ICl3Z80"
     }
 ]
