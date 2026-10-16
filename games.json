@@ -143,5 +143,20 @@
         "url": "steam://rungameid/1386900",
         "webUrl": "https://store.steampowered.com/app/1386900/Observer_System_Redux/",
         "trailer": "https://www.imdb.com/video/embed/vi1979563545/"
+    },
+   {
+       "name": "Trepang2",
+        "appId": "1164940",
+        "category": "tier-3",
+        "tags": ["Shooter", "Horror", "Fps", "Gore", "Violent"],
+        "players": "single-player",
+        "price": 29.99,
+        "offer": true,
+        "recommended": true,
+        "tag": "Tier III",
+        "desc": "You play as an escaped soldier, who has no memories of their past life, but is infused with supernatural abilities. Revenge is on your mind, and you’ll stop at nothing to get what you want. Deliver devastating punches, sneak around in the shadows, wield explosive weapons, and give the bad guys a taste of their own medicine.",
+        "url": "steam://rungameid/1164940",
+        "webUrl": "https://store.steampowered.com/app/1164940/Trepang2",
+        "trailer": "https://www.imdb.com/video/embed/vi4220176153/"
    }
 ]
