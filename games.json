@@ -128,5 +128,19 @@
         "desc": "The sprawling, boundary-pushing crime epic that changed open-world games forever, updated for a new generation. Experience the gritty underworld of Liberty City with rebuilt lighting, high-resolution textures, increased draw distances, and modern GTA V-style targeting controls.",
         "url": "steam://rungameid/1546970",
         "webUrl": "https://wasmarcade.com/gta3"
+   },
+   {
+        "name": "Observer System Redux",
+        "appId": "1386900",
+        "category": "tier-1",
+        "tags": ["Horror", "Investigation", "Cyberpunk", "Hacking", "Stealth"],
+        "players": "single-player",
+        "price": 29.99,
+        "offer": false,
+        "recommended": false,
+        "tag": "Tier I",
+        "desc": "TThe year is 2084. The future has turned out much darker than anyone could imagine. First, there was the Nanophage. A digital plague that killed thousands upon thousands of those who chose to augment their minds and bodies. Then came the War, leaving both the West and the East decimated and shattered. With no one left to seize power, corporations took over and forged their own crooked empires.",
+        "url": "steam://rungameid/1386900",
+        "webUrl": "https://store.steampowered.com/app/1386900/Observer_System_Redux/"
    }
 ]
