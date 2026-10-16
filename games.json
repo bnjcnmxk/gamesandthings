@@ -72,5 +72,19 @@
         "desc": "Survive endless waves of the undead solo or cooperatively in iconic maps like Kino der Toten and Five, featuring retro-futuristic weapons and a deep lore narrative built directly into Call of Duty: Black Ops.",
         "url": "https://vel.gg/bo1z",
         "webUrl": "https://vel.gg/bo1z"
+   },
+   {
+        "name": "Counter Strike 1.6",
+        "appId": "0",
+        "category": "browser",
+        "tags": ["FPS", "Tactical", "Multiplayer", "Competitive", "Shooter"],
+        "players": "multi-player",
+        "price": 0,
+        "offer": false,
+        "recommended": false,
+        "tag": "Web",
+        "desc": "The original tactical team-based masterpiece that revolutionized the competitive FPS landscape. Pit counter-terrorist units against terrorist factions across legendary maps like Dust II, Inferno, and Assault.",
+        "url": "steam://rungameid/10",
+        "webUrl": "https://csjs.live/"
    }
 ]
