@@ -100,5 +100,19 @@
         "desc": "Play as theoretical physicist Gordon Freeman at the Black Mesa Research Facility. When an experiment goes horribly wrong, a catastrophic resonance cascade tears open a dimensional rift, forcing you to fight through alien invaders and a military cleanup crew to survive.",
         "url": "steam://rungameid/70",
         "webUrl": "https://pixelsuft.github.io/hl/"
+    },
+   {
+        "name": "Grand Theft Auto Chinatown Wars",
+        "appId": "0",
+        "category": "browser",
+        "tags": ["Action-Adventure", "Open World", "Top-Down", "Crime", "Isometric"],
+        "players": "single-player",
+        "price": 0,
+        "offer": false,
+        "recommended": false,
+        "tag": "Web",
+        "desc": "Control Huang Lee in a cel-shaded, isometric 3D rendition of Liberty City. Navigate a dangerous web of Triad family betrayals, execute touch-screen vehicle minigames, and manage a deep, dynamic drug-trafficking street economy to avenge your father's murder.",
+        "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtactw",
+        "webUrl": "https://gta-chinatown-wars.pages.dev/"
    }
 ]
