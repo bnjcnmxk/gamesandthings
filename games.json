@@ -188,5 +188,20 @@
         "url": "steam://rungameid/1888930",
         "webUrl": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/",
         "trailer": "https://www.imdb.com/video/embed/vi3379215641/"
+    },
+    {
+        "name": "Ready or Not",
+        "appId": "1144200",
+        "category": "tier-3",
+        "tags": ["Tactical", "Realistic", "FPS", "Shooter", "Multiplayer"],
+        "players": "single-player / multi-player",
+        "price": 49.99,
+        "offer": true,
+        "recommended": true,
+        "tag": "Tier III",
+        "desc": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
+        "url": "steam://rungameid/1144200",
+        "webUrl": "https://store.steampowered.com/app/1144200/Ready_or_Not/",
+        "trailer": "https://files.catbox.moe/18wjyn/mp4"
     }
 ]
