@@ -114,5 +114,19 @@
         "desc": "Control Huang Lee in a cel-shaded, isometric 3D rendition of Liberty City. Navigate a dangerous web of Triad family betrayals, execute touch-screen vehicle minigames, and manage a deep, dynamic drug-trafficking street economy to avenge your father's murder.",
         "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtactw",
         "webUrl": "https://gta-chinatown-wars.pages.dev/"
+    },
+   {
+        "name": "Grand Theft Auto 3",
+        "appId": "1546970",
+        "category": "browser",
+        "tags": ["Open World", "Action", "Crime", "Third-Person Shooter", "Classic"],
+        "players": "single-player",
+        "price": 0,
+        "offer": false,
+        "recommended": false,
+        "tag": "Web",
+        "desc": "The sprawling, boundary-pushing crime epic that changed open-world games forever, updated for a new generation. Experience the gritty underworld of Liberty City with rebuilt lighting, high-resolution textures, increased draw distances, and modern GTA V-style targeting controls.",
+        "url": "steam://rungameid/1546970",
+        "webUrl": "https://wasmarcade.com/gta3"
    }
 ]
