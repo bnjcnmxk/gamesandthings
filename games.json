@@ -158,5 +158,21 @@
         "url": "steam://rungameid/1164940",
         "webUrl": "https://store.steampowered.com/app/1164940/Trepang2",
         "trailer": "https://www.imdb.com/video/embed/vi4220176153/"
+   },
+   {
+        "name": "Rise of the Tomb Raider",
+        "appId": "391220",
+        "category": "tier-3",
+        "tags": ["Adventure", "Action", "Action-Adventure", "Female Protagonist", "Singleplayer"],
+        "players": "single-player",
+        "price": 29.99,
+        "offer": true,
+        "recommended": true,
+        "tag": "Tier III",
+        "desc": "Featuring epic, high-octane action moments set in the most beautiful hostile environments on earth, Rise of the Tomb Raider delivers a cinematic survival action adventure where you will join Lara Croft on her first Tomb Raiding expedition as she seeks to discover the secret of immortality.",
+        "url": "steam://rungameid/391220",
+        "webUrl": "https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/",
+        "trailer": "https://www.imdb.com/video/embed/vi379304985/"
+    }
    }
 ]
