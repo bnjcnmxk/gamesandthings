@@ -301,7 +301,7 @@
         "players": "single-player / multi-player",
         "price": 0,
         "offer": false,
-        "recommended": true,
+        "recommended": false,
         "tag": "Web",
         "desc": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government, and the entertainment industry, they must pull off a series of dangerous heists to survive.",
         "url": "steam://rungameid/271590",
