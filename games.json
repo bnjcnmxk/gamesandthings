@@ -5,7 +5,6 @@
         "category": "tier-4",
         "tags": ["open world", "action", "sandbox", "comedy", "shooter"],
         "players": "single-player",
-        "price": 9.99,
         "offer": true,
         "recommended": true,
         "tag": "Tier IIII",
@@ -21,7 +20,6 @@
         "category": "tier-2",
         "tags": ["Open World", "Post-apocalyptic", "Exploration", "Atmospheric"],
         "players": "single-player",
-        "price": 19.99,
         "offer": true,
         "recommended": true,
         "tag": "Tier II",
@@ -29,7 +27,7 @@
         "url": "steam://rungameid/377160",
         "webUrl": "https://store.steampowered.com/app/377160/Fallout_4/",
         "trailer": "https://www.imdb.com/video/embed/vi10138137/",
-         "linux": "true"
+        "linux": "true"
     },
     {
         "name": "Fallout New Vegas",
@@ -37,7 +35,6 @@
         "category": "tier-2",
         "tags": ["Open World", "Post-apocalyptic", "Exploration", "Atmospheric"],
         "players": "single-player",
-        "price": 9.99,
         "offer": true,
         "recommended": false,
         "tag": "Tier II",
@@ -45,15 +42,14 @@
         "url": "steam://rungameid/22380",
         "webUrl": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/",
         "trailer": "https://www.imdb.com/video/embed/vi3678649625/",
-         "linux": "true"
-   },
-   {
+        "linux": "true"
+    },
+    {
         "name": "Portal",
         "appId": "400",
         "category": "tier-2",
         "tags": ["Puzzle", "Puzzle Platformer", "First-Person", "3D Platformer"],
         "players": "single-player",
-        "price": 9.99,
         "offer": false,
         "recommended": true,
         "tag": "Tier III",
@@ -62,8 +58,8 @@
         "webUrl": "https://store.steampowered.com/app/400/Portal/",
         "trailer": "https://www.imdb.com/video/embed/vi706592281/",
         "linux": "true"
-   },
-   {
+    },
+    {
         "name": "Black Ops 1 Zombies",
         "appId": "0",
         "category": "browser",
@@ -76,8 +72,8 @@
         "desc": "Survive endless waves of the undead solo or cooperatively in iconic maps like Kino der Toten and Five, featuring retro-futuristic weapons and a deep lore narrative built directly into Call of Duty: Black Ops.",
         "url": "https://vel.gg/bo1z",
         "webUrl": "https://vel.gg/bo1z"
-   },
-   {
+    },
+    {
         "name": "Counter Strike 1.6",
         "appId": "10",
         "category": "browser",
@@ -91,7 +87,7 @@
         "url": "steam://rungameid/10",
         "webUrl": "https://csjs.live/"
     },
-   {
+    {
         "name": "Half-Life",
         "appId": "70",
         "category": "browser",
@@ -105,7 +101,7 @@
         "url": "steam://rungameid/70",
         "webUrl": "https://pixelsuft.github.io/hl/"
     },
-   {
+    {
         "name": "Grand Theft Auto Chinatown Wars",
         "appId": "0",
         "category": "browser",
@@ -119,7 +115,7 @@
         "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtactw",
         "webUrl": "https://gta-chinatown-wars.pages.dev/"
     },
-   {
+    {
         "name": "Grand Theft Auto 3",
         "appId": "1546970",
         "category": "browser",
@@ -132,14 +128,13 @@
         "desc": "The sprawling, boundary-pushing crime epic that changed open-world games forever, updated for a new generation. Experience the gritty underworld of Liberty City with rebuilt lighting, high-resolution textures, increased draw distances, and modern GTA V-style targeting controls.",
         "url": "steam://rungameid/1546970",
         "webUrl": "https://wasmarcade.com/gta3"
-   },
-   {
+    },
+    {
         "name": "Observer System Redux",
         "appId": "1386900",
         "category": "tier-1",
         "tags": ["Horror", "Investigation", "Cyberpunk", "Hacking", "Stealth"],
         "players": "single-player",
-        "price": 29.99,
         "offer": false,
         "recommended": false,
         "tag": "Tier I",
@@ -150,12 +145,11 @@
         "linux": "true"
     },
     {
-       "name": "Trepang2",
+        "name": "Trepang2",
         "appId": "1164940",
         "category": "tier-3",
         "tags": ["Shooter", "Horror", "Fps", "Gore", "Violent"],
         "players": "single-player",
-        "price": 29.99,
         "offer": true,
         "recommended": true,
         "tag": "Tier III",
@@ -163,15 +157,14 @@
         "url": "steam://rungameid/1164940",
         "webUrl": "https://store.steampowered.com/app/1164940/Trepang2",
         "trailer": "https://www.imdb.com/video/embed/vi4220176153/",
-         "linux": "true"
-   },
-   {
+        "linux": "true"
+    },
+    {
         "name": "Rise of the Tomb Raider",
         "appId": "391220",
         "category": "tier-3",
         "tags": ["Adventure", "Action", "Action-Adventure", "Female Protagonist", "Singleplayer"],
         "players": "single-player",
-        "price": 29.99,
         "offer": true,
         "recommended": true,
         "tag": "Tier III",
@@ -180,14 +173,13 @@
         "webUrl": "https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/",
         "trailer": "https://www.imdb.com/video/embed/vi379304985/",
         "linux": "true"
-   },
-   {
+    },
+    {
         "name": "The Last of Us: Part I",
         "appId": "1888930",
         "category": "tier-3",
         "tags": ["Zombies", "Story Rich", "Horror", "Post-apocalyptic", "Action-Adventure"],
         "players": "single-player",
-        "price": 59.99,
         "offer": true,
         "recommended": true,
         "tag": "Tier III",
@@ -203,7 +195,6 @@
         "category": "tier-3",
         "tags": ["Tactical", "Realistic", "FPS", "Shooter", "Multiplayer"],
         "players": "single-player / multi-player",
-        "price": 49.99,
         "offer": true,
         "recommended": true,
         "tag": "Tier III",
@@ -211,7 +202,7 @@
         "url": "steam://rungameid/1144200",
         "webUrl": "https://store.steampowered.com/app/1144200/Ready_or_Not/",
         "trailer": "https://files.catbox.moe/18wjyn.mp4",
-         "linux": "true"
+        "linux": "true"
     },  
     {
         "name": "Dead Space",
@@ -219,7 +210,6 @@
         "category": "tier-3",
         "tags": ["Horror", "Sci-Fi", "Action", "Atmospheric", "Third Person"],
         "players": "single-player",
-        "price": 19.99,
         "offer": true,
         "recommended": true,
         "tag": "Tier III",
@@ -227,7 +217,7 @@
         "url": "steam://rungameid/17470",
         "webUrl": "https://store.steampowered.com/app/17470/Dead_Space/",
         "trailer": "https://www.imdb.com/video/embed/vi2024652569/",
-         "linux": "true"
+        "linux": "true"
     },
     {
         "name": "Dead Space 2",
@@ -235,7 +225,6 @@
         "category": "tier-3",
         "tags": ["Horror", "Action", "Sci-Fi", "Third Person", "Atmospheric"],
         "players": "single-player",
-        "price": 19.99,
         "offer": false,
         "recommended": false,
         "tag": "Tier III",
@@ -243,7 +232,7 @@
         "url": "steam://rungameid/47780",
         "webUrl": "https://store.steampowered.com/app/47780/Dead_Space_2/",
         "trailer": "https://www.imdb.com/video/embed/vi526105881/",
-         "linux": "true"
+        "linux": "true"
     },
     {
         "name": "Dead Space 3",
@@ -251,7 +240,6 @@
         "category": "tier-0",
         "tags": ["Action", "Horror", "Sci-Fi", "Co-op", "Third Person"],
         "players": "single-player / multi-player",
-        "price": 19.99,
         "offer": false,
         "recommended": false,
         "tag": "Tier 0",
@@ -259,7 +247,7 @@
         "url": "steam://rungameid/1238060",
         "webUrl": "https://store.steampowered.com/app/1238060/Dead_Space_3/",
         "trailer": "https://www.youtube.com/embed/vi542883097",
-         "linux": "true"
+        "linux": "true"
     },
     {
         "name": "Cronos: The New Dawn",
@@ -267,7 +255,6 @@
         "category": "tier-0",
         "tags": ["Survival Horror", "Sci-Fi", "Third Person", "Atmospheric", "Action"],
         "players": "single-player",
-        "price": 59.99,
         "offer": true,
         "recommended": false,
         "tag": "Tier 0",
@@ -275,7 +262,7 @@
         "url": "steam://rungameid/2101960",
         "webUrl": "https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/",
         "trailer": "https://www.youtube.com/embed/5D_1YpC9v2Q",
-         "linux": "true"
+        "linux": "true"
     },
     {
         "name": "The Callisto Protocol™",
@@ -283,7 +270,6 @@
         "category": "tier-0",
         "tags": ["Horror", "Survival Horror", "Sci-Fi", "Third Person", "Atmospheric"],
         "players": "single-player",
-        "price": 59.99,
         "offer": false,
         "recommended": false,
         "tag": "Tier 0",
@@ -291,7 +277,7 @@
         "url": "steam://rungameid/1544020",
         "webUrl": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/",
         "trailer": "https://www.youtube.com/embed/ME2-ICl3Z80",
-         "linux": "true"
+        "linux": "true"
     },
     {
         "name": "Grand Theft Auto V",
