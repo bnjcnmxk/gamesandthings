@@ -292,5 +292,20 @@
         "webUrl": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/",
         "trailer": "https://www.youtube.com/embed/ME2-ICl3Z80",
          "linux": "true"
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "appId": "271590",
+        "category": "browser",
+        "tags": ["Open World", "Action", "Multiplayer", "Automobiles", "Crime"],
+        "players": "single-player / multi-player",
+        "price": 0,
+        "offer": false,
+        "recommended": true,
+        "tag": "Web",
+        "desc": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government, and the entertainment industry, they must pull off a series of dangerous heists to survive.",
+        "url": "steam://rungameid/271590",
+        "webUrl": "https://v2.fiveplay.lol/launcher.html",
+        "trailer": "https://www.imdb.com/video/embed/vi587835673/"
     }
 ]
