@@ -108,7 +108,7 @@
         "tags": ["Action-Adventure", "Open World", "Top-Down", "Crime", "Isometric"],
         "players": "single-player",
         "price": 0,
-        "offer": false,
+        "offer": false,https://files.catbox.moe/inhfm3.png
         "recommended": false,
         "tag": "Web",
         "desc": "Control Huang Lee in a cel-shaded, isometric 3D rendition of Liberty City. Navigate a dangerous web of Triad family betrayals, execute touch-screen vehicle minigames, and manage a deep, dynamic drug-trafficking street economy to avenge your father's murder.",
@@ -117,7 +117,7 @@
     },
     {
         "name": "Grand Theft Auto 3",
-        "appId": "1546970",
+        "appId": "1546970",https://files.catbox.moe/inhfm3.png
         "category": "browser",
         "tags": ["Open World", "Action", "Crime", "Third-Person Shooter", "Classic"],
         "players": "single-player",
@@ -158,7 +158,7 @@
         "webUrl": "https://store.steampowered.com/app/1164940/Trepang2",
         "trailer": "https://www.imdb.com/video/embed/vi4220176153/",
         "linux": "true"
-    },
+    },https://files.catbox.moe/inhfm3.png
     {
         "name": "Rise of the Tomb Raider",
         "appId": "391220",
@@ -176,7 +176,7 @@
     },
     {
         "name": "The Last of Us: Part I",
-        "appId": "1888930",
+        "appId": "1888930",https://files.catbox.moe/inhfm3.png
         "category": "tier-3",
         "tags": ["Zombies", "Story Rich", "Horror", "Post-apocalyptic", "Action-Adventure"],
         "players": "single-player",
@@ -238,7 +238,7 @@
         "name": "Dead Space 3",
         "appId": "1238060",
         "category": "tier-0",
-        "tags": ["Action", "Horror", "Sci-Fi", "Co-op", "Third Person"],
+        "tags": ["Action", "Horror", "Sci-Fi", "Co-op", "Third Pershttps://files.catbox.moe/inhfm3.pngon"],
         "players": "single-player / multi-player",
         "offer": false,
         "recommended": false,
@@ -293,5 +293,20 @@
         "url": "steam://rungameid/271590",
         "webUrl": "https://v2.fiveplay.lol/launcher.html",
         "trailer": "https://www.imdb.com/video/embed/vi587835673/"
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "appId": "1091500",
+        "category": "browser",
+        "tags": ["Cyberpunk", "Open-World", "Nudity", "RPG"],
+        "players": "single-player",
+        "price": 0,
+        "offer": false,
+        "recommended": false,
+        "tag": "Web",
+        "desc": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+        "url": "steam://rungameid/1091500",
+        "webUrl": "https://cyberpunk2077.lol/",
+        "trailer": "https://www.imdb.com/video/embed/vi734382361/"
     }
 ]
